@@ -248,3 +248,12 @@ footer {
 #photos > img {
     width: 100%;
 } 
+/* Gallery */
+#photos{
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+}
+#photos > img{
+    width:100%;
+}
